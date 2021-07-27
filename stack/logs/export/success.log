@@ -1,0 +1,68 @@
+{"level":"info","message":"Starting assets export","timestamp":"2021-07-26T20:06:09.774Z"}
+{"level":"info","message":"Downloaded quizly-logo.png: blt34da39bcec6c63f8 successfully!","timestamp":"2021-07-26T20:06:10.501Z"}
+{"level":"info","message":"Downloaded medal.svg: blt2663406e8ea06974 successfully!","timestamp":"2021-07-26T20:06:10.606Z"}
+{"level":"info","message":"Downloaded check.png: blt0bb539a218ae71ae successfully!","timestamp":"2021-07-26T20:06:10.616Z"}
+{"level":"info","message":"Skipping download of { title: quizly-logo.png, uid: blt34da39bcec6c63f8 }, as they already exist","timestamp":"2021-07-26T20:06:10.697Z"}
+{"level":"info","message":"Downloaded animals.png: bltd2c5c537d5e2fba2 successfully!","timestamp":"2021-07-26T20:06:10.767Z"}
+{"level":"info","message":"Skipping download of { title: medal.svg, uid: blt2663406e8ea06974 }, as they already exist","timestamp":"2021-07-26T20:06:10.792Z"}
+{"level":"info","message":"Skipping download of { title: check.png, uid: blt0bb539a218ae71ae }, as they already exist","timestamp":"2021-07-26T20:06:10.812Z"}
+{"level":"info","message":"Skipping download of { title: quizly-logo.png, uid: blt34da39bcec6c63f8 }, as they already exist","timestamp":"2021-07-26T20:06:10.903Z"}
+{"level":"info","message":"Downloaded animal.png: bltc54484b041e90c55 successfully!","timestamp":"2021-07-26T20:06:10.997Z"}
+{"level":"info","message":"Downloaded history.png: blt6a1aa608bf3a3b4d successfully!","timestamp":"2021-07-26T20:06:11.622Z"}
+{"level":"info","message":"Downloaded geography.png: blt4c23866acb764cbd successfully!","timestamp":"2021-07-26T20:06:11.771Z"}
+{"level":"info","message":"Downloaded celebrity.png: blt02b264600fc9ece4 successfully!","timestamp":"2021-07-26T20:06:11.787Z"}
+{"level":"info","message":"Downloaded music.png: bltbb3b7c1bfe377031 successfully!","timestamp":"2021-07-26T20:06:11.930Z"}
+{"level":"info","message":"Downloaded movie.png: blt4e6f589dfb538dd6 successfully!","timestamp":"2021-07-26T20:06:11.936Z"}
+{"level":"info","message":"Downloaded corgi.png: blt0d40c3ddbe962a8b successfully!","timestamp":"2021-07-26T20:06:12.493Z"}
+{"level":"info","message":"Downloaded science.png: blt43c26a318effb87a successfully!","timestamp":"2021-07-26T20:06:12.544Z"}
+{"level":"info","message":"Downloaded sports.png: bltd79487d47ffe1494 successfully!","timestamp":"2021-07-26T20:06:12.651Z"}
+{"level":"info","message":"Batch no 1 of assets is complete","timestamp":"2021-07-26T20:06:12.732Z"}
+{"level":"info","message":"Downloaded technology.png: bltd7661909279cffd8 successfully!","timestamp":"2021-07-26T20:06:12.729Z"}
+{"level":"info","message":"Asset-folders have been successfully exported!","timestamp":"2021-07-26T20:06:13.123Z"}
+{"level":"info","message":"Starting locale export","timestamp":"2021-07-26T20:06:13.125Z"}
+{"level":"info","message":"\u001b[32mAsset export completed successfully\u001b[39m","timestamp":"2021-07-26T20:06:13.123Z"}
+{"level":"info","message":"Spanish - United States locale was exported successfully","timestamp":"2021-07-26T20:06:13.288Z"}
+{"level":"info","message":"\u001b[32mAll the locales have been exported successfully\u001b[39m","timestamp":"2021-07-26T20:06:13.288Z"}
+{"level":"info","message":"Starting environment export","timestamp":"2021-07-26T20:06:13.291Z"}
+{"level":"info","message":"Starting extension export","timestamp":"2021-07-26T20:06:13.479Z"}
+{"level":"info","message":"\u001b[32mAll the environments have been exported successfully\u001b[39m","timestamp":"2021-07-26T20:06:13.477Z"}
+{"level":"info","message":"\u001b[32mAll the extensions have been exported successfully\u001b[39m","timestamp":"2021-07-26T20:06:13.700Z"}
+{"level":"info","message":"Starting webhooks export","timestamp":"2021-07-26T20:06:13.702Z"}
+{"level":"info","message":"No webhooks found","timestamp":"2021-07-26T20:06:13.922Z"}
+{"level":"info","message":"Starting Global Fields export","timestamp":"2021-07-26T20:06:13.926Z"}
+{"level":"info","message":"\u001b[32mGlobal Fields export completed successfully\u001b[39m","timestamp":"2021-07-26T20:06:14.128Z"}
+{"level":"info","message":"Starting content type export","timestamp":"2021-07-26T20:06:14.131Z"}
+{"level":"info","message":"\u001b[32mContent type(s) exported successfully\u001b[39m","timestamp":"2021-07-26T20:06:14.405Z"}
+{"level":"info","message":"Starting workflow export","timestamp":"2021-07-26T20:06:14.406Z"}
+{"level":"info","message":"No workflow were found in the Stack","timestamp":"2021-07-26T20:06:14.574Z"}
+{"level":"info","message":"Starting entry migration","timestamp":"2021-07-26T20:06:14.577Z"}
+{"level":"info","message":"Exported entries of category to the es-us language successfully","timestamp":"2021-07-26T20:06:14.993Z"}
+{"level":"info","message":"Exported entries of edit_quiz_page to the en-us language successfully","timestamp":"2021-07-26T20:06:15.384Z"}
+{"level":"info","message":"Exported entries of edit_quiz_page to the es-us language successfully","timestamp":"2021-07-26T20:06:15.783Z"}
+{"level":"info","message":"Exported entries of add_quiz_page to the en-us language successfully","timestamp":"2021-07-26T20:06:16.149Z"}
+{"level":"info","message":"Exported entries of add_quiz_page to the es-us language successfully","timestamp":"2021-07-26T20:06:16.524Z"}
+{"level":"info","message":"Exported entries of category_page to the en-us language successfully","timestamp":"2021-07-26T20:06:16.950Z"}
+{"level":"info","message":"Exported entries of category_page to the es-us language successfully","timestamp":"2021-07-26T20:06:17.359Z"}
+{"level":"info","message":"Exported entries of score to the en-us language successfully","timestamp":"2021-07-26T20:06:17.755Z"}
+{"level":"info","message":"Exported entries of score to the es-us language successfully","timestamp":"2021-07-26T20:06:18.159Z"}
+{"level":"info","message":"Exported entries of quiz_page to the en-us language successfully","timestamp":"2021-07-26T20:06:18.533Z"}
+{"level":"info","message":"Exported entries of quiz_page to the es-us language successfully","timestamp":"2021-07-26T20:06:18.940Z"}
+{"level":"info","message":"Exported entries of login_page to the en-us language successfully","timestamp":"2021-07-26T20:06:19.318Z"}
+{"level":"info","message":"Exported entries of login_page to the es-us language successfully","timestamp":"2021-07-26T20:06:19.698Z"}
+{"level":"info","message":"Exported entries of dashboard_page to the en-us language successfully","timestamp":"2021-07-26T20:06:20.065Z"}
+{"level":"info","message":"Exported entries of dashboard_page to the es-us language successfully","timestamp":"2021-07-26T20:06:20.458Z"}
+{"level":"info","message":"Exported entries of landing_page to the en-us language successfully","timestamp":"2021-07-26T20:06:20.837Z"}
+{"level":"info","message":"Exported entries of landing_page to the es-us language successfully","timestamp":"2021-07-26T20:06:21.231Z"}
+{"level":"info","message":"Exported entries of circle_timer_config to the en-us language successfully","timestamp":"2021-07-26T20:06:21.617Z"}
+{"level":"info","message":"Exported entries of circle_timer_config to the es-us language successfully","timestamp":"2021-07-26T20:06:21.986Z"}
+{"level":"info","message":"Exported entries of quiz to the en-us language successfully","timestamp":"2021-07-26T20:06:22.366Z"}
+{"level":"info","message":"Exported entries of quiz to the es-us language successfully","timestamp":"2021-07-26T20:06:22.823Z"}
+{"level":"info","message":"Exported entries of header to the en-us language successfully","timestamp":"2021-07-26T20:06:23.243Z"}
+{"level":"info","message":"Exported entries of header to the es-us language successfully","timestamp":"2021-07-26T20:06:23.643Z"}
+{"level":"info","message":"Exported entries of category to the en-us language successfully","timestamp":"2021-07-26T20:06:24.066Z"}
+{"level":"info","message":"Entry migration completed successfully","timestamp":"2021-07-26T20:06:24.067Z"}
+{"level":"info","message":"Starting labels export","timestamp":"2021-07-26T20:06:24.069Z"}
+{"level":"info","message":"Static Data labels was exported successfully","timestamp":"2021-07-26T20:06:24.303Z"}
+{"level":"info","message":"\u001b[32mThe content of the blt2e28fd631c0081f5 has been exported succesfully!\u001b[39m","timestamp":"2021-07-26T20:06:24.304Z"}
+{"level":"info","message":"\u001b[32mAll the labels have been exported successfully\u001b[39m","timestamp":"2021-07-26T20:06:24.303Z"}
+{"level":"info","message":"The log for this is stored at interns/quizly/logs/export","timestamp":"2021-07-26T20:06:24.310Z"}

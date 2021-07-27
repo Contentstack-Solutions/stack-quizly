@@ -1,0 +1,1 @@
+{"title":"Login Page","uid":"login_page","schema":[{"display_name":"Title","uid":"title","data_type":"text","mandatory":true,"unique":true,"field_metadata":{"_default":true,"version":3},"multiple":false,"non_localizable":false}],"description":"It contains the login page title","options":{"is_page":false,"singleton":true,"title":"title","sub_title":[]}}
